@@ -1,5 +1,5 @@
-# Only README and LICENSE are tracked — source code is not published
+# Only the landing page is tracked â€” source code is not published
 *
 !.gitignore
 !README.md
-!LICENSE
+!PocketPad Logo 2.png

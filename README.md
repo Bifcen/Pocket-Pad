@@ -1,21 +1,30 @@
-# PocketPad
+ï»¿<p align="center">
+  <img src="PocketPad Logo 2.png" width="200" alt="PocketPad">
+</p>
 
-Turn your Android handheld into a wireless Bluetooth HID gamepad. Windows and other devices will see it as a real game controller — no extra software needed on the host.
+<h1 align="center">PocketPad</h1>
 
-## Download
+<p align="center">
+Turn your Android handheld into a wireless Bluetooth HID gamepad.<br>
+Windows and other devices will see it as a real game controller â€” no extra software needed on the host.
+</p>
 
-Head to [**Releases**](../../releases/latest) to grab the latest APK.
+<p align="center">
+  <a href="../../releases/latest"><strong>Download Latest APK</strong></a>
+</p>
+
+---
 
 ## Features
 
-- **Bluetooth HID Gamepad** — Registers as a native game controller, no receiver app or drivers needed
-- **Full Controller Support** — Buttons, analog sticks, triggers, D-pad, bumpers, thumbstick clicks
-- **Low Latency** — Event-driven input pipeline, compact 8-byte HID reports
-- **Screen Dim + OLED Black** — Dims screen on inactivity, optional full-black overlay for OLED panels
-- **Hair Triggers** — Per-trigger option for instant full-press at minimal physical input
-- **Configurable Deadzones** — Per-stick deadzone sliders (0–20%) with scaled output
-- **Exclusive Button Mode** — Prevents gamepad buttons from navigating Android while active
-- **Foreground Service** — Keeps Bluetooth connection alive when backgrounded
+- **Bluetooth HID Gamepad** â€” Registers as a native game controller, no receiver app or drivers needed
+- **Full Controller Support** â€” Buttons, analog sticks, triggers, D-pad, bumpers, thumbstick clicks
+- **Low Latency** â€” Event-driven input pipeline, compact 8-byte HID reports
+- **Screen Dim + OLED Black** â€” Dims screen on inactivity, optional full-black overlay for OLED panels
+- **Hair Triggers** â€” Per-trigger option for instant full-press at minimal physical input
+- **Configurable Deadzones** â€” Per-stick deadzone sliders (0-20%) with scaled output
+- **Exclusive Button Mode** â€” Prevents gamepad buttons from navigating Android while active
+- **Foreground Service** â€” Keeps Bluetooth connection alive when backgrounded
 
 ## Requirements
 
@@ -32,8 +41,4 @@ Head to [**Releases**](../../releases/latest) to grab the latest APK.
 
 ## Author
 
-Rob Jobse — [robjobse.com/rjlabs](https://robjobse.com/rjlabs)
-
-## License
-
-GNU General Public License v3.0
+Rob Jobse â€” [robjobse.com/rjlabs](https://robjobse.com/rjlabs)
