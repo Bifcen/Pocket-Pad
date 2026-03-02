@@ -1,0 +1,5 @@
+# Only README and LICENSE are tracked — source code is not published
+*
+!.gitignore
+!README.md
+!LICENSE
